@@ -1,2 +1,6 @@
 # Data Analysis Project
-#### This project focused on creating a Sales dashboard. I cleaned and prepared the data using SQL and created the dashboard on MS Power BI.
+### Business Task:
+#### Create a visual dashboard covering sales trend, top customers, and top products. Also, compare the sales trends with the sales budgets for last 2 years.
+
+### Tools used:
+#### SQL, SSMS, MS Power BI
