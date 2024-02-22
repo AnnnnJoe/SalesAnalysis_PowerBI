@@ -1,4 +1,4 @@
-# Data Analysis Project
+# Sales Analysis - Power BI Dashboard
 ## Business Task:
 #### Create an interactive Sales overview dashboard of internet sales for Sales Executives to identify sales trends, top customers, and top products.
 ## Tools used:
