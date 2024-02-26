@@ -14,4 +14,4 @@
 3. **Customer Details Dashboard:**
       - Created a dashboard mirroring the Sales Overview, integrating a heatmap displaying customer sales across months to provide additional insights.
 4. **Product Details Dashboard:**
-       - Developed a similar dashboard as the Customer Details, featuring a heatmap of product sales for comprehensive analysis.
+   - Developed a similar dashboard as the Customer Details, featuring a heatmap of product sales for comprehensive analysis.
